@@ -7,4 +7,4 @@ My 1st lab in Comp3111H - Honors Software Engineering
 
 ## 📷 Screenshots
 Here's a preview of the project bulit on IntelliJ:
-![1st_Lab_Screenshot.png](./1st_Lab_Screenshot.png)
+![1st_Lab_Screenshot.png](../../../../.github/1st_Lab_Screenshot.png)
